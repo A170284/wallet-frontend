@@ -10,6 +10,7 @@ export const styles = StyleSheet.create({
     justifyContent: "center",
   },
   illustration: {
+    paddingLeft:430,
     width:300,
     height: 310,
     resizeMode: "contain",
@@ -85,7 +86,7 @@ export const styles = StyleSheet.create({
     borderColor: COLORS.border,
     fontSize: 16,
     color: COLORS.text,
-    width: "100",
+    width: "320",
     textAlign: "center",
     letterSpacing: 2,
   },

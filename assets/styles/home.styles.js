@@ -27,6 +27,7 @@ export const styles = StyleSheet.create({
   headerLogo: {
     width: 75,
     height: 75,
+    borderRadius:9
   },
   welcomeContainer: {
     flex: 1,
@@ -63,6 +64,7 @@ export const styles = StyleSheet.create({
     shadowOpacity: 0.1,
     shadowRadius: 4,
     elevation: 3,
+    width: 90
   },
   addButtonText: {
     color: COLORS.white,
@@ -130,6 +132,12 @@ export const styles = StyleSheet.create({
     fontWeight: "600",
     color: COLORS.text,
     marginBottom: 15,
+  },
+  sectionTitle2: {
+    fontSize: 18,
+    fontWeight: "600",
+    color: COLORS.text,
+    marginBottom: -2,
   },
   transactionCard: {
     backgroundColor: COLORS.card,

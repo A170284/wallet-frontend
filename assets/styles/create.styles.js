@@ -73,6 +73,7 @@ export const styles = StyleSheet.create({
     color: COLORS.text,
     fontSize: 16,
     fontWeight: "500",
+    marginLeft:8,
   },
   typeButtonTextActive: {
     color: COLORS.white,
@@ -159,4 +160,7 @@ export const styles = StyleSheet.create({
     alignItems: "center",
     justifyContent: "center",
   },
+  typeButtonTextActive: {
+  color: COLORS.white,
+},
 });
