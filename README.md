@@ -27,7 +27,7 @@ A secure and modern **wallet application** built with **React Native (Expo)** an
 
 ## 📸 Screenshots
 
-<img src="![WhatsApp Image 2025-06-10 at 11 07 26_9041cf2b](https://github.com/user-attachments/assets/acdf377b-6fb5-4373-a90a-561e9d1ab31d)
+<img src="![img1](https://github.com/user-attachments/assets/2c64234f-4ff6-4c20-9cd0-b3188990f306)
 " alt="Descriptive alt text for the image" width="100" height="200">
 
 
